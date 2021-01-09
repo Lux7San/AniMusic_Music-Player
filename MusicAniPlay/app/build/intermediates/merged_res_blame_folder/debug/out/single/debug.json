@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-hdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_back.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-anydpi\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_lagu.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\layout\\activity_detail_lagu.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_no_image.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_no_image.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_headphone.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_headphone.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_no_image.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-hdpi\\ic_no_image.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_lagu.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\layout\\activity_list_lagu.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_no_image.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xhdpi\\ic_no_image.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_play.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-anydpi\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_no_image.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-anydpi\\ic_no_image.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_no_image.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-mdpi\\ic_no_image.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_main.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xhdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_music.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_pause.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-anydpi\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_wave_white.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\wave_white.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wave_white.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\wave_white.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_list_music.xml.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\layout\\item_list_music.xml"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Kuliah\\Semester 5\\mobile progaming\\tugas\\udah jadi\\MusicAniPlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

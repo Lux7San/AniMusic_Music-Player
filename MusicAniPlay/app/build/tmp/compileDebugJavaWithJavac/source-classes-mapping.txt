@@ -1,0 +1,7 @@
+com/ernold/AniPlay/adapter/ListLaguAdapter.java
+ com.ernold.AniPlay.adapter.ListLaguAdapter
+ com.ernold.AniPlay.adapter.ListLaguAdapter$1
+ com.ernold.AniPlay.adapter.ListLaguAdapter$ViewHolder
+ com.ernold.AniPlay.adapter.ListLaguAdapter$onSelectData
+com/ernold/AniPlay/BuildConfig.java
+ com.ernold.AniPlay.BuildConfig

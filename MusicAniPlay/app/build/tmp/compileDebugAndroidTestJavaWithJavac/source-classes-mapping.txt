@@ -1,0 +1,4 @@
+com/cocare/AniPlay/ExampleInstrumentedTest.java
+ com.cocare.AniPlay.ExampleInstrumentedTest
+com/ernold/AniPlay/test/BuildConfig.java
+ com.ernold.AniPlay.test.BuildConfig
